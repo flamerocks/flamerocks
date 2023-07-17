@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**flamerocks/flamerocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+from GitHub import ReadMe
 
-Here are some ideas to get you started:
+class flamerocks(ReadMe):
+    "/flamerocks/flamerocks/README.md"
+    def __init__(self):
+        self.username = "flamerocks"
+        self.description = "2016년 코딩 에픽 너무 무서워"
+        self.contacts = {
+            "instagram": "여유진"
+        }
+        self.aliases = [
+            "flamerocks",
+        ]
+        self.projects = {
+            "public": {
+                  "total": 0,
+                  "location": "github.com/flamerocks?tab=repositories"
+            }
+        }
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=flamerocks&style=flat-square&color=0a0808" />
+</p>
