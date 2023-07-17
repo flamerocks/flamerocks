@@ -1,4 +1,3 @@
-
 ```py
 from GitHub import ReadMe
 
@@ -21,6 +20,17 @@ class flamerocks(ReadMe):
         }
 ```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flamerocks&style=flat-square&color=0a0808" />
+<p align="center">  
+<img src="https://visitcount.itsvg.in/api?id=flamerocks&icon=2&color=8">
 </p>
+
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=flamerocks&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flamerocks&theme=gotham&hide_border=false">
+</p>
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamerocks&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
